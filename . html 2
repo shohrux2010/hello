@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h3>Asalomu alekinm</h3>
+    <h1>
+        meni ismim  <em>Shohruh Xakimboyev </em>
+    </h1>
+<p>bu sayt <sup>html</sup> yordamida yaratiladi</p>
+<h1>biz haqimizda</h1>
+<p>Biz veb-ishlab chiquvch jamomiz</p>
+<h1>Biz xizmatlarmiz</h1>
+<ul>
+    <li>partn dasturlas bot</li>
+    <li><del>frondetie dasturlash bot</del></li>
+    <li><del>robotatehnika bot</del></li>
+</ul>
+<h1>Biz bilan boglaning</h1>
+<ol>
+    <li>teligram: <mark>@shohruh</mark></li>
+    <li>instagiram: <mark>@shohruh._15</mark></li>
+    <li>email: <mark>xakimboyevshohruh@gmail.com</mark></li>
+</ol>
+</body>
+</html>
