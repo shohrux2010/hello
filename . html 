@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sayt Loyihasi</title>
+</head>
+<body>
+    <h2><u>Assalomu Aleykum</u></h2>
+    <h1>Mening ismim <i>Shoxrux Shokirov</i></h1>
+    <p><i>Bu sayt  <sup>HTML</sup> yordamida yaratilgan.</i></p>
+    <h2>Biz haqimizda</h2>
+    <p>Biz veb-ishlab chiqishga qiziquvchi jamoamiz.</p>
+    <h2>Bizning xizmatlarimiz</h2>
+    <ul>
+         <li><b>Python dasturlash</b></li>
+         <li><b><del>Frontend dasturlash</del></b></li>
+         <li><b><del>Robototexnika</del></b></li>
+    </ul>
+    <h2>Biz bilan bog‘laning</h2>
+    <ol>
+            <li>Telegram: <mark>@vipshakh</mark></li>
+            <li>Instagram: <mark>@shokirovc.1</mark></li>
+            <li>Email: <mark>shakhvip@gmail.com</mark></li>
+    </ol>
+</body>
+</html>
