@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      table,
+      th,
+      td {
+        border: 1px solid black;
+        border-collapse: collapse;
+      }
+    </style>
+  </head>
+  <body>
+    <table style="width: 100%">
+      <table id="myTable" border="1" cellpadding="3" cellspacing="0">
+        <tr>
+          <th>Category</th>
+          <th>Product</th>
+          <th>Size</th>
+          <th>Price</th>
+          <th>Shipping</th>
+        </tr>
+        <tr>
+          <td rowspan="4">Category-1</td>
+          <td>Product-1</td>
+          <td>Big</td>
+          <td>102</td>
+          <td>Free</td>
+        </tr>
+        <tr>
+          <td>Product-1</td>
+          <td>Big</td>
+          <td>132</td>
+          <td>Free</td>
+        </tr>
+        <tr>
+          <td>Product-2</td>
+          <td>Big</td>
+          <td>130</td>
+          <td>Free</td>
+        </tr>
+        <tr>
+          <td>Product-2</td>
+          <td>Small</td>
+          <td>100</td>
+          <td>Free</td>
+        </tr>
+        <tr>
+          <td rowspan="4">Category-2</td>
+          <td>Product-3</td>
+          <td>Big</td>
+          <td>130</td>
+          <td>Free</td>
+        </tr>
+        <tr>
+          <td>Product-3</td>
+          <td>Big</td>
+          <td>100</td>
+          <td>Free</td>
+        </tr>
+        <tr>
+          <td>Product-3</td>
+          <td>Small</td>
+          <td>100</td>
+          <td>10</td>
+        </tr>
+        <tr>
+          <td>Product-4</td>
+          <td>Big</td>
+          <td>150</td>
+          <td>10</td>
+        </tr>
+        <tr>
+          <td rowspan="3">Category-3</td>
+          <td>Product-5</td>
+          <td>Big</td>
+          <td>150</td>
+          <td>10</td>
+        </tr>
+        <tr>
+          <td>Product-5</td>
+          <td>Small</td>
+          <td>120</td>
+          <td>10</td>
+        </tr>
+        <tr>
+          <td>Product-5</td>
+          <td>Big</td>
+          <td>120</td>
+          <td>Free</td>
+        </tr>
+        <tr>
+          <td rowspan="2">Category-4</td>
+          <td>Product-6</td>
+          <td>Big</td>
+          <td>120</td>
+          <td>10</td>
+        </tr>
+        <tr>
+          <td>Product-6</td>
+          <td>Small</td>
+          <td>120</td>
+          <td>10</td>
+        </tr>
+      </table>
+    </table>
+  </body>
+</html>
