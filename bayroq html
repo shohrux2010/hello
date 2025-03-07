@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        header {
+            background-color: blue;
+            height: 200px;
+            width: 100%;
+        }
+        hr {
+            background-color: red;
+            height: 5px;
+            width: 100%;
+        }
+        main {
+            background-color: rgb(255, 255, 255);
+            height: 190px;
+            width: 100%;
+        }
+        footer {
+            background-color: green;
+            height: 200px;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+<header></header>
+<hr>
+<main></main>
+<hr>
+<footer></footer>
+</body>
+</html>
